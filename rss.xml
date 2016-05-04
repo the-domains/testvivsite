@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[testvivsite]]></title>
         <description><![CDATA[testvivsite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testvivsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 16:59:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 16:59:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testvivsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[33 Women Doing Amazing Things in Graphic Design]]></title>
+            <description><![CDATA[<article><h1>33 Women Doing Amazing Things in Graphic Design</h1><p>These talented women have unleashed their creativity and skills on the world of graphic design. Paula Scher is an American graphic designer, illustrator, and educator, and the first female Principal at . She started experimenting with typography in the early 1980s and looked to historic design sources such as Russian Constructivism, obscure and little-used typefaces, and her seemingly unlimited imagination.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a84e55d2234e7ad3075d42c0c39e066f0189319.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/women-graphic-designers/</link>
+            <guid isPermaLink="false">1e0d8cae-b757-4b8a-b70d-36bd72278a64</guid>
+            <pubDate>Wed, 04 May 2016 16:59:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Light Phone: Designed for Disconnecting]]></title>
             <description><![CDATA[<article><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d0f5ce299ad3d7f079d449896c88dcc2ec48b8.jpg"></article>]]></description>
