@@ -1,0 +1,14 @@
+layout_spectrum: 0.9988371019717306
+typography_spectrum: 0.038197922287508845
+color:
+  brandStrength: 0.890063947532326
+  lightness: 0.7999581471085548
+  saturation: 0.4745350459124893
+  rhythmicContrast: 0.051536414539441466
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: testvivsite
